@@ -133,7 +133,6 @@ To update your profile, follow the below steps:
 - Change the values to be updated in the respective fields.
 - Click on the **Update** button.
 
-![2020-03-16 (14)](https://user-images.githubusercontent.com/39924567/76782276-0f905180-67d6-11ea-8a9a-294bdb348b14.png)
 
 ## User: Room Manager
 Room Manager is the user who will manage the ongoings of the application in terms of number of rooms to be made available to the customers and the time slots for which the rooms can be booked. Plus, he can also define the number of days for which the bookings can be done in advance.
